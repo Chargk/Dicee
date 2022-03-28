@@ -1,3 +1,7 @@
+wonLoseDraw();
+dice1();
+dice2();
+
 var randomNumber1 = Math.ceil(Math.random() * 6); // 1 - 6 random number 
 
 function dice1() {
@@ -24,6 +28,3 @@ function wonLoseDraw() {
     }
 }
 
-wonLoseDraw();
-dice1();
-dice2();
